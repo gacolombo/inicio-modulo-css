@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=The+Nautigal&display=swap');
+
+*{
+    font-family: 'The Nautigal', cursive;
+}
+h1{
+    color:blue;
+}
+strong{
+    color:cornflowerblue;
+}
